@@ -1,0 +1,12 @@
+{
+    "name": "access-refresh",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.2"
+    }
+}
